@@ -57,7 +57,7 @@ type: page
 </div>
 
 
-<script src="{{ " /js/masonry.pkgd.min.js " | prepend: site.baseurl }}" charset="utf-8"></script>
+<script src="{{ "/js/masonry.pkgd.min.js " | prepend: site.baseurl }}" charset="utf-8"></script>
 <script type="text/javascript" charset="utf-8">
 /* jshint asi:true */
 //先等图片都加载完成
