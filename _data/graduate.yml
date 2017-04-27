@@ -1,0 +1,38 @@
+- name: 何鑫
+  short: he_xin
+  title: 2015级博士毕业生
+  pic: avatar_hexin.jpg
+  description: 现任太平人寿保险有限公司客户价值挖掘和产品推荐技术负责人
+- name: 石萍
+  short: shi_ping
+  title: 博士后，2014年出站
+  pic: avatar_shiping.jpg
+  description: 现任上海理工大学康复工程与技术研究所副教授
+- name: 方娟
+  short: fang_juan
+  title: 2013级博士
+  pic: avatar_fangjuan.jpg
+  description: 现任江南大学机械工程学院副教授
+- name: Juan Carlos Márquez Ruiz
+  short: juan
+  title: 博士后，2016年出站
+  pic: avatar_Carlos.jpg
+  description: 瑞典KTH
+- name: 刘小旋
+  short: liu_xiaoxuan
+  email:
+  title: 2016届硕士
+  pic: avatar_liuxiaoxuan.jpg
+  description: 现任思科系统（中国）研发有限公司DOCSIS协议开发技术负责人
+- name: 庄橙
+  short: zhuang_cheng
+  email:
+  title: 2017届硕士
+  pic: avatar_zhuangcheng.jpg
+  description: 现任上海联影医疗科技有限公司临床应用专员
+- name: 徐福梁
+  short: xu_fuliang
+  email:
+  title: 2017届硕士
+  pic: avatar_xufuliang.jpg
+  description: 现任罗克韦尔自动化有限公司助理工程师
