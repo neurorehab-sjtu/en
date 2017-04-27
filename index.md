@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: 神经康复工程实验室
+title: NEUROREHAB - SJTU
 ---
 
 神经康复工程实验室设立于上海交通大学生物医学工程学院 Med-X 研究院。
